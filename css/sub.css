@@ -1,0 +1,17 @@
+.content_header{
+	background-color:#262627;
+	height:52px;
+	color:white;
+}
+.content_header img{
+    width:24px;
+    height:24px;
+    vertical-align:middle;
+    margin-right:16px;
+}
+.content_header>div{
+    position:relative;
+    left:15px;
+    top:15px;
+    font-size:20px
+}
